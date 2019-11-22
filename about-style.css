@@ -1,0 +1,184 @@
+
+* {
+    text-decoration: none solid rgb(0, 0, 0)!important;
+}
+body {
+    font-family: lato, sans-serif!important;
+    word-spacing: 0px!important;
+}
+
+/*=====================================================================================================================
+=========================================================NAVBAR=====================================================*/
+
+.bg-dark{
+    background: transparent  !important;
+}
+.navbar .navbar-brand{
+    font-size: 30px;
+}
+.navbar li{
+    font-size: 22px;
+}
+
+a.navbar-brand {
+    font-family: aleo, serif!important;
+    font-size: 40px!important;
+    line-height: 32px;
+}
+
+/*==================================================================================================================*/
+
+#header {
+    background-color: #effaff;
+    padding-top: 5%;
+    border-bottom: 20px white solid;
+}
+
+#header h1 {
+    font-size: 48px;
+    line-height: 56px;
+    font-weight: bold;
+    margin-top: 10%;
+    align-content: center;
+}
+
+#header img {
+    width: 100%;
+}
+
+#main h2 {
+    font-size: 32px;
+    line-height: 40px;
+    font-weight: bold;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+#main p {
+    font-size: 18px;
+    line-height: 28px;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+#press-jumbotron {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#main #press-jumbotron img {
+    overflow-x: hidden;
+}
+
+#main-3 h2 {
+    font-size: 32px;
+    line-height: 40px;
+    font-weight: bold;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+#main-3 p {
+    font-size: 18px;
+    line-height: 28px;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+#main-2{
+    font-size: 24px;
+    line-height: 32px;
+    padding-left: 13%;
+    padding-right: 13%;
+}
+
+#main-2 h3 {
+    font-size: 24px;
+    line-height: 32px;
+}
+
+#main-2 p {
+    font-size: 18px;
+    line-height: 28px;
+}
+
+#main span {
+    color: #439fc6;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: bold;
+}
+
+#main-3 span {
+    color: #439fc6;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: bold;
+}
+
+#main-3 #footer-jumbotron {
+    background-color: #effaff;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#main-3 #footer-jumbotron h2 {
+    font-size: 30px;
+}
+
+/*=======================*/
+
+#last-section {
+    background-color: #2b353a;
+    color: white;
+}
+
+#last-section {
+    padding-top: 5%;
+    padding-bottom: 4%;
+}
+
+#last-section-header {
+    padding-bottom: 1%;
+}
+
+#last-section-header h2 {
+    font-size: 48px;
+    line-height: 56px;
+}
+
+#last-section-header h6 {
+    font-size: 24px;
+    line-height: 32px;
+}
+
+#last-section #get-started {
+    background-color: #9fd50b;
+}
+
+#last-section #email {
+    width: 65%;
+}
+#last-section p {
+    font-size: 18px;
+    line-height: 28px;
+    margin-top: 1%;
+}
+
+#last-section form {
+    margin-top: 0%;
+    padding-top: 0%;
+}
+
+#last-section span {
+    color: #439fc6;
+}
+
+#last-section a {
+color: #3b5998;
+}
+
+#last-section #last-para {
+    padding-top: 2%;
+    text-align: center;
+}

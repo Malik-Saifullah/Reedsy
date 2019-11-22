@@ -1,0 +1,71 @@
+@media screen and (max-width:600px) {
+    #professionals .request , 
+    #professionals .view-profile {
+        display: none;
+    }
+    #professionals .contact-us,
+    #professionals .sign-up {
+        padding-top: 8%;
+        padding-bottom: 8%;
+        padding-left: 12%;
+        padding-right: 12%;
+    }
+    #professionals .editor-name {
+        font-size: 26px;
+        line-height: 32px;
+        margin-bottom: 2%;
+        margin-top: 3%;
+    }
+    #professionals .editor-location {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    #editors .profiles {
+        margin: 0%;
+        padding: 0%;
+    }
+    #assistance {
+        margin: 0%;
+        padding: 0%;
+    }
+    #assistance #assistance-categories {
+        margin-left: 0%;
+    }
+    #assistance .category {
+        margin-left: 2%;
+        margin-right: 0%;
+        padding-left: 4%;
+        padding-right: 4%;
+        padding-top: 0%;
+    }
+    #features .text-right {
+        text-align: left!important;
+    }
+    #tools {
+        margin-left: 0%;
+        margin-right: 0%;
+        padding-left: 0%;
+        padding-right: 0%;
+    }
+    #tools #tools-header {
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+    #tools #removeonsmall {
+        display: none;
+    }
+    #books {
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+    #books-header h2 {
+        font-size: 32px;
+    }
+    #books-header p {
+        font-size: 20px;
+    }
+    #books-examples {
+        margin-left: 0%!important;
+        margin-right: 0%!important;
+    }
+}
